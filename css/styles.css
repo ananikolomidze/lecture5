@@ -1,0 +1,293 @@
+
+
+.logo,.header-item{
+display: inline-block;
+}
+.section-img,.text4{
+	display: inline-block;
+
+}
+
+.siaxleebi,.siaxleebi1,.foto{
+	display: inline-block;
+	padding: 10px;
+}
+.logo{
+
+/* </HTML> */
+
+position: absolute;
+width: 223px;
+height: 58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #30CBC2;
+
+}
+.main-color{
+	width:115px ;
+	height: 34px;
+	color:#8D81FF;
+
+;
+}
+.header-item{
+	color:#4E6FAE ;
+	width:115px ;
+	height: 34px;
+	padding: 25px 70px 20px 250px;
+	font-size: 26px;
+
+}
+
+.date{
+	width: 31px;
+height: 34px;
+font-size: 24px;
+font-weight: 400;
+line-height: 27.6px;
+text-align: left;
+color:#84FF81;
+text-align: center;
+
+}
+.date1{
+	background: #5012D5;
+
+	width: 50px;
+height: 50px;
+
+margin-left: 10px;
+
+
+}
+.month{
+	width: 70px;
+height: 34px;
+top: 288px;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: #8D81FF;
+margin-left: 10px;
+
+}
+.text{
+	width: 778px;
+height: 281px;
+top: -210px;
+left: -244px;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.2px;
+text-align: left;
+color: #4E6FAE;
+padding: 50px 30px 20px 70px;
+}
+
+.text4{
+	width: 778px;
+height: 281px;
+top: -210px;
+left: -244px;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.2px;
+text-align: left;
+color: #4E6FAE;
+padding: 50px 30px 20px 70px;
+
+}
+
+.text1{
+	width: 466px;
+height: 34px;
+top: 336px;
+left: -757px;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+color: #4E6FAE;
+margin-left: 10px;
+}
+.section-img{
+	padding: 60px 5px 5px 10px;
+}
+.line{
+	padding: 5px;
+}
+.photo{
+	width: 1052px;
+height: 462px;
+padding: 40px 150px;
+}
+.container {
+	width: 500px;
+	height: 190px;
+	background-color: #E7E7E7;
+	margin-top: 50px;
+	padding: 20px;
+	display: inline-block;
+
+}
+
+.container h3 {
+	font-size: 20px;
+	color: #3F4145;
+	margin-bottom: 20px;
+}
+.container p {
+	display: inline-block;
+	width: 350px;
+	vertical-align: middle;
+	font-size: 16px;
+	color: #7E8898;
+}
+
+.container img {
+	margin-right: 20px;
+    vertical-align: middle;
+}
+.siaxleebi{
+	color: #4E6FAE;
+	width: 484px;
+height: 34px;
+top: 255px;
+left: 1070px;
+font-size: 26px;
+font-weight: 400;
+line-height: 31.2px;
+text-align: left;
+
+
+}
+.siaxleebi1{
+	color: #4E6FAE;
+	width: 150px;
+height: 34px;
+top: 255px;
+left: 885px;
+font-size: 26px;
+font-weight: 700;
+line-height: 31.2px;
+text-align: left;
+
+}
+.cont{
+	width: 1500px;
+height: 735px;
+top: -381px;
+left: 2162px;
+background-color: #E7E7E7;
+
+}
+.text2{
+	width: 474px;
+height: 34px;
+top: -288px;
+left: 2324px;
+font-size: 36px;
+font-weight: 700;
+line-height: 43.96px;
+text-align: left;
+color: #4E6FAE;
+vertical-align: top;
+}
+.cont img{
+	vertical-align: middle;
+	width: 944px;
+height: 549px;
+top: -288px;
+left: 2838px;
+
+}
+.cont h3,.cont img{
+	display: inline-block;
+}
+.cont p{
+	color: gray;
+}
+.cont p1{
+	color: black;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.14px;
+margin-left: -200px;
+}
+.cont p,.cont p1{
+	display: inline-block;
+	margin-top: -1000px;
+	vertical-align: middle;
+width: 307px;
+height: 24px;
+top: -227px;
+left: 2324px;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.14px;
+}
+.cont p3{
+	margin-left: 
+	color: black;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.14px;
+margin-left: -260px;
+}
+.cont p2{
+	color: gray;
+
+margin-left: -420px;
+}
+.cont p2,.cont p3{
+	display: inline-block;
+	margin-top: -940px;
+	
+	vertical-align: middle;
+
+width: 307px;
+height: 24px;
+top: -227px;
+left: 2324px;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.14px;}
+.cont p4{color: gray;
+
+margin-left: -350px;
+
+}
+.cont p5{margin-left: 
+	color: black;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.14px;
+margin-left: -200px;
+
+}
+.cont p4,.cont p5{
+		display: inline-block;
+	margin-top: -880px;
+	
+	vertical-align: middle;
+
+width: 307px;
+height: 24px;
+top: -227px;
+left: 2324px;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.14px;}
+.cont p4{color: gray;
+
+margin-left: -360px;
+
+}
