@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto&display=swap');
 
 .logo,.header-item{
 display: inline-block;
@@ -42,7 +42,13 @@ color: #30CBC2;
 	width:115px ;
 	height: 34px;
 	padding: 25px 70px 20px 250px;
-	font-size: 26px;
+	font-size: 26px;.
+	
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 }
 
