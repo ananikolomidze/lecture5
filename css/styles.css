@@ -5,7 +5,6 @@ display: inline-block;
 }
 .section-img,.text4{
 	display: inline-block;
-
 }
 
 .siaxleebi,.siaxleebi1,.foto{
@@ -34,6 +33,10 @@ color: #30CBC2;
 	width:115px ;
 	height: 34px;
 	color:#8D81FF;
+	font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 
 ;
 }
@@ -42,12 +45,10 @@ color: #30CBC2;
 	width:115px ;
 	height: 34px;
 	padding: 25px 70px 20px 250px;
-	font-size: 26px;.
-	
-  font-family: "Roboto", sans-serif;
+	font-size: 26px;
+	font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
 
 
 }
@@ -68,8 +69,8 @@ text-align: center;
 
 	width: 50px;
 height: 50px;
-
-margin-left: 10px;
+top: -368px;
+left: -757px;
 
 
 }
@@ -77,12 +78,16 @@ margin-left: 10px;
 	width: 70px;
 height: 34px;
 top: 288px;
+left: -757px;
 font-size: 24px;
 font-weight: 400;
 line-height: 28.8px;
 text-align: left;
 color: #8D81FF;
-margin-left: 10px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 
 }
 .text{
@@ -96,6 +101,10 @@ line-height: 19.2px;
 text-align: left;
 color: #4E6FAE;
 padding: 50px 30px 20px 70px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
 
 .text4{
@@ -109,6 +118,9 @@ line-height: 19.2px;
 text-align: left;
 color: #4E6FAE;
 padding: 50px 30px 20px 70px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 
 }
 
@@ -122,7 +134,10 @@ font-weight: 700;
 line-height: 24px;
 text-align: left;
 color: #4E6FAE;
-margin-left: 10px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
 .section-img{
 	padding: 60px 5px 5px 10px;
@@ -172,6 +187,10 @@ font-size: 26px;
 font-weight: 400;
 line-height: 31.2px;
 text-align: left;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 
 
 }
@@ -185,6 +204,9 @@ font-size: 26px;
 font-weight: 700;
 line-height: 31.2px;
 text-align: left;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 
 }
 .cont{
@@ -206,6 +228,10 @@ line-height: 43.96px;
 text-align: left;
 color: #4E6FAE;
 vertical-align: top;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
 .cont img{
 	vertical-align: middle;
@@ -226,7 +252,11 @@ left: 2838px;
 font-size: 20px;
 font-weight: 400;
 line-height: 24.14px;
-margin-left: -200px;
+margin-left: -245px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
 .cont p,.cont p1{
 	display: inline-block;
@@ -239,6 +269,7 @@ left: 2324px;
 font-size: 20px;
 font-weight: 400;
 line-height: 24.14px;
+
 }
 .cont p3{
 	margin-left: 
@@ -246,12 +277,20 @@ line-height: 24.14px;
 font-size: 20px;
 font-weight: 400;
 line-height: 24.14px;
-margin-left: -260px;
+margin-left: -235px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
 .cont p2{
 	color: gray;
 
-margin-left: -420px;
+margin-left: -370px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
 .cont p2,.cont p3{
 	display: inline-block;
@@ -268,7 +307,7 @@ font-weight: 400;
 line-height: 24.14px;}
 .cont p4{color: gray;
 
-margin-left: -350px;
+margin-left: -387px;
 
 }
 .cont p5{margin-left: 
@@ -276,7 +315,11 @@ margin-left: -350px;
 font-size: 20px;
 font-weight: 400;
 line-height: 24.14px;
-margin-left: -200px;
+margin-left: -250px;
+font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 
 }
 .cont p4,.cont p5{
@@ -292,8 +335,3 @@ left: 2324px;
 font-size: 20px;
 font-weight: 400;
 line-height: 24.14px;}
-.cont p4{color: gray;
-
-margin-left: -360px;
-
-}
